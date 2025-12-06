@@ -2,13 +2,13 @@
 
 # Student Portal – Full Stack Development Internship (Cognifyz Technologies)
 
-## 📌 About
+## About
 This repository contains the tasks I completed during my Full Stack Development internship with **Cognifyz Technologies**.  
 The internship focused on building skills in front-end, back-end, APIs, and database integration.
 
 ---
 
-## ✅ Completed Tasks (Up to Task 5)
+## Completed Tasks (Up to Task 5)
 
 ### Level 1: Beginner
 - **Task 1:** HTML Structure & Basic Server Interaction  
@@ -29,14 +29,15 @@ The internship focused on building skills in front-end, back-end, APIs, and data
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, Bootstrap  
 - **Backend:** Node.js, Express  
 - **Other Tools:** Postman (API testing), EJS (server-side rendering)
 
 ---
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/sakhareprajakta/student-portal.git
+
