@@ -1,6 +1,6 @@
 ﻿# student-portal
 
-# Student Portal – Full Stack Development Internship (Cognifyz Technologies)
+## Student Portal – Full Stack Development Internship (Cognifyz Technologies)
 
 ## About
 This repository contains the tasks I completed during my Full Stack Development internship with **Cognifyz Technologies**.  
@@ -40,4 +40,5 @@ The internship focused on building skills in front-end, back-end, APIs, and data
 1. Clone the repository:
    ```bash
    git clone https://github.com/sakhareprajakta/student-portal.git
+
 
